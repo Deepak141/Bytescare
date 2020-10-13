@@ -1,0 +1,8 @@
+Open the Classification.ipny in google colab only
+Run all the lines of code one after the other 
+model.jason contains the model that i have used
+test_weights.h5 contains the trained(trained for person or not by me , you cant get the test_weights.h5 in anywhere)model weights 
+If you want to add your own images add it to test folder using colab
+Result will be shown wether person is present or not along with the image
+if you want to check the result of the single image provide the image path in the path variable present in the code
+Thank You
